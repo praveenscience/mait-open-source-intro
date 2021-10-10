@@ -8,6 +8,8 @@ Someone create a pull request to introduce what this repository is about.
 
 Someone create a pull request to introduce what this repository is about.
 
+## Hey I'm Sahitya Roy this is a amazing session and your education example is amazing and its clear all my doubt regarding open source.
+
 ## Live Stream Details
 
 The Event can be accessed from [Open Source: Git & GitHub + Hacktoberfest ’21!](https://events.praveen.science/open-source-mait/)
