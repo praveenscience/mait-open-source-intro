@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Someone create a pull request to introduce what this repository is about.
+The live stream was about introduction to open source and how to work on git and github. 
 
 ## Learning from the Live Stream
 
